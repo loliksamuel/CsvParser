@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.function.Predicate;
 
-/*
+/*  csv example
 * time,status,result
     18:05,200,OK
     18:02,302,Moved Permanently
